@@ -1,6 +1,6 @@
 {
   "name": "@koishi-minecraft/axolotl-ui",
-  "version": "0.0.1",
+  "version": "0.0.20",
   "private": false,
   "module": "dist/index.js",
   "main": "dist/index.js",
@@ -63,5 +63,18 @@
     "ts-loader": "^9.5.1",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
-  }
+  },
+  "types": "./dist/index.d.ts",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koishi-minecraft/AxolotlUI.git"
+  },
+  "keywords": [
+    "AxolotUI"
+  ],
+  "bugs": {
+    "url": "https://github.com/koishi-minecraft/AxolotlUI/issues"
+  },
+  "homepage": "https://github.com/koishi-minecraft/AxolotlUI#readme"
 }
