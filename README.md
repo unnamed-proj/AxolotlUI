@@ -24,5 +24,5 @@ You can learn more in the [Axolotl UI documentation](https://ui.koishi.live).
 To learn React, check out the [React documentation](https://reactjs.org/).
 #
 #### | 少女祈祷中 |———————
-[![kmdlogo](https://api.mio.am/project/koishimc/icon?size=32&sub=dev&color=(0,0,0)&title=Koishi%20Minecraft%20Developer)](https://dev.koishiminecraft.com#gh-light-mode-only)
-[![kmdlogo](https://api.mio.am/project/koishimc/icon?size=32&sub=dev&color=(255,255,255)&title=Koishi%20Minecraft%20Developer)](https://dev.koishiminecraft.com#gh-dark-mode-only)
+[![kmdlogo](https://api.mio.am/project/koishimc/icon?size=100&sub=dev&color=(0,0,0)&title=Koishi%20Minecraft%20Developer)](https://dev.koishiminecraft.com#gh-light-mode-only)
+[![kmdlogo](https://api.mio.am/project/koishimc/icon?size=100&sub=dev&color=(255,255,255)&title=Koishi%20Minecraft%20Developer)](https://dev.koishiminecraft.com#gh-dark-mode-only)
