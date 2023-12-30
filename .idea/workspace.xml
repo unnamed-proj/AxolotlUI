@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff4b5cfd-1637-4838-a7f7-e631962d28dc" name="更改" comment="好像忘记加.gitignore了">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/preview.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/preview.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/components/aui-button/aui-button.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/components/aui-button/aui-button.stories.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/components/aui-button/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/components/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="ff4b5cfd-1637-4838-a7f7-e631962d28dc" name="更改" comment="好像忘记加.gitignore了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +109,7 @@
       <workItem from="1703876745699" duration="1885000" />
       <workItem from="1703918028945" duration="1364000" />
       <workItem from="1703935064942" duration="3043000" />
-      <workItem from="1703938993378" duration="3149000" />
+      <workItem from="1703938993378" duration="3473000" />
     </task>
     <task id="LOCAL-00001" summary="好像忘记加.gitignore了">
       <option name="closed" value="true" />
