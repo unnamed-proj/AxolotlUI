@@ -1,6 +1,8 @@
 
-# ![AxolotlUIIcon](https://api.mio.am/project/AxolotlAPI/icon?size=160&color=(242,112,147)&title=Axolotl%20UI)
+![AxolotlUIIcon](https://api.mio.am/project/AxolotlAPI/icon?size=160&color=(242,112,147)&title=Axolotl%20UI)
 > 🍞 AxolotUI for AxolotProject, a block style React component library by [Koishi Minecraft Developer](https://github.com/koishi-minecraft).
+  
+    
 #
 
 ## Available Scripts
