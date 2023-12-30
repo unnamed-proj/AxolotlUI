@@ -7,9 +7,9 @@ export interface AuiButtonProps {
     className?: string;
     onClick?: () => void;
     type?: "button" | "submit";
-
-
 }
+
+
 export const AuiButton = ({children, className, theme = "light", ...props}: AuiButtonProps) => {
 
     function themeNameFalse() {
@@ -28,7 +28,7 @@ export const AuiButton = ({children, className, theme = "light", ...props}: AuiB
 
     return (
         <div className={`${className} `}>
-            <button className={`relative w-full h-full border-2   font-semibold px-4 py-0.5 shadow-black
+            <button className={`relative w-full h-full border-2   font-semibold px-4 py-0.5
                                 after:w-[calc(100%+4px)] after:h-2  after:absolute after:-left-[2px] after:-bottom-2                         
                                 active:-bottom-1.5 active:after:h-0.5 active:after:-bottom-0.5 ${themeNameFalse()}`}
                     {...props}>

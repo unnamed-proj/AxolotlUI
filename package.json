@@ -1,6 +1,6 @@
 {
   "name": "@koishi-minecraft/axolotl-ui",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "private": false,
   "description": "AxolotUI for AxolotProject, a block style React component library.",
   "module": "dist/index.js",
