@@ -1,6 +1,5 @@
 import React from "react";
 
-
 export interface AuiButtonProps {
     theme?: "light" | "dark" | "success" | "error" | "danger" | "allow";
     children?: string;
